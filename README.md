@@ -14,9 +14,9 @@ $ currently_building
 - Backend development with Java
 
 $ tech_stack
-- Java, Python, C/C++
-- HTML, CSS, JavaScript, Bootstrap, jQuery
-- MySQL, Git & GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,js,html,css,mysql,git" />
+</p>
 
 ---
 
