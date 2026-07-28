@@ -17,6 +17,9 @@ $ tech_stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,py,cpp,js,html,css,mysql,git" />
 </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,js,html,css,mysql,git&theme=dark" />
+</p>
 
 ---
 
